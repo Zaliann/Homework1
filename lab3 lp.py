@@ -3,3 +3,8 @@ l = " (\__/) "
 f = "(=\'.\'=) "
 r = "(\")_(\") "
 print((l * nomer) + '\n' + (f * nomer) + '\n' + (r * nomer))
+
+
+
+
+#some changes
